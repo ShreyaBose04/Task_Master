@@ -148,4 +148,4 @@ EMAIL_HOST = "smtp.gmail.com"
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = "shreya.bose.in@gmail.com"
-EMAIL_HOST_PASSWORD = "vebd vezn baal lhop"
+EMAIL_HOST_PASSWORD = smtp_cred
